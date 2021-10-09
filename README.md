@@ -1,5 +1,7 @@
-# Using TomTom Maps in a Django App
+# Reuse Near You Project
 
-This repository contains a complete Django application that uses the TomTom Maps SDK for Web to create a basic store locator app. 
+This repository contains a the backend code for the Reuse Near You Project in Phase III of the Reskill Americans program. It is a Django application that uses the TomTom Maps SDK for Web to create basic store locator functionality.
 
-db.sqlite3 is pre-populated with sample store locations so you can clone the application, run it, and see it in action.
+To be added:
+-Search functionality
+-Integration with frontend
